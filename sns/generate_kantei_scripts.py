@@ -187,7 +187,7 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
 <div class="vpage">
   <div class="v-top">
     <div class="v-meta"><div class="v-num">VIDEO 01</div><div class="v-dur">60秒</div><div class="v-dur">自己診断型</div></div>
-    <div class="v-title">この鼻、俺ならこうする。</div>
+    <div class="v-title">この鼻、こうします。</div>
   </div>
   <div class="v-hook-bar">「この鼻を見てください。」</div>
   <div class="v-body">
@@ -197,7 +197,7 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
         <div class="sbox-bd">
           <div class="sbox-row"><span class="sbox-lbl">使う素材</span>団子鼻タイプの症例写真1枚（術前）</div>
           <div class="sbox-row"><span class="sbox-lbl">構成</span>写真を指差しながら話す。または写真を画面の半分に出して隣で話す</div>
-          <div class="sbox-row"><span class="sbox-lbl">ポイント</span>「違う。」の一言を間を空けてから言う。ここが全体のピーク</div>
+          <div class="sbox-row"><span class="sbox-lbl">ポイント</span>「違います。」の一言を間を空けてから言う。ここが全体のピーク</div>
         </div>
       </div>
       <div class="sbox">
@@ -205,13 +205,13 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
         <div class="sbox-bd">
           <ul class="edit-steps">
             <li><div class="es-n">1</div>冒頭に症例写真をフルスクリーンで1秒表示してから先生の顔へ</li>
-            <li><div class="es-n">2</div>「違う。」の直前に0.5秒の無音カットを入れる</li>
+            <li><div class="es-n">2</div>「違います。」の直前に0.5秒の無音カットを入れる</li>
             <li><div class="es-n">3</div>「高くするんじゃなくて、軽くする。」を画面中央に大きくテキスト表示</li>
             <li><div class="es-n">4</div>AI字幕＋シネマティックBGM（小音量）</li>
           </ul>
         </div>
       </div>
-      <div class="buzz-box">「この鼻は自分に似てる」と思った人が<strong>止まる</strong>。「俺ならこうする」という断言が鑑定士キャラを確立する最初の動画。シリーズ化できる。</div>
+      <div class="buzz-box">「この鼻は自分に似てる」と思った人が<strong>止まる</strong>。即断言するスタイルが鑑定士キャラを確立する最初の動画。シリーズ化できる。</div>
     </div>
     <div class="script-area">
       <div class="script-top"><div class="script-title-label">完全セリフ</div><div class="script-note"><span class="pause">間</span>＝1〜2秒空ける　<span class="visual">映像</span>＝編集で追加</div></div>
@@ -219,22 +219,22 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
 
 この鼻を見てください。<span class="pause">間</span>
 
-鼻先が丸い。小鼻が張っている。全体に重さがある。
+鼻先が丸い。小鼻が張っている。全体に重さがあります。
 
-よくこういう方から相談を受ける。
+よくこういう方から相談を受けます。
 「他のクリニックでプロテーゼを勧められました」と。
 
-<span class="pause">間</span>違う。
+<span class="pause">間</span>違います。
 
-この鼻に必要なのは高さじゃない。
+この鼻に必要なのは、高さじゃありません。
 
 鼻先の「抜け感」です。
 
-プロテーゼで高さを足したら、この重さがさらに目立つ。
+プロテーゼで高さを足したら、この重さがさらに目立ちます。
 
-俺ならこうします。肋軟骨で鼻先を作り直して、小鼻を整える。鼻筋はいじらない。
+こうします。肋軟骨で鼻先を作り直して、小鼻を整える。鼻筋はいじらない。
 
-高くするんじゃなくて、軽くする。<span class="pause">間</span>
+高くするんじゃなくて、軽くします。<span class="pause">間</span>
 
 それだけで、別の顔になります。</div></div>
       <div class="caption-area">
@@ -287,26 +287,26 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
       <div class="script-top"><div class="script-title-label">完全セリフ</div><div class="script-note"><span class="pause">間</span>＝1〜2秒空ける</div></div>
       <div class="script-box"><div class="script-text">整形がバレる鼻と、バレない鼻。何が違うか話します。
 
-バレる鼻には共通点がある。
+バレる鼻には、共通点があります。
 
-鼻だけ「完成」している。
+鼻だけ「完成」しています。
 
-目との距離感、口との比率、顔の骨格。そこと合っていない。鼻だけ別の顔から持ってきたように見える。
+目との距離感、口との比率、顔の骨格。そこと合っていない。鼻だけ、別の顔から持ってきたように見えます。
 
-あとは「直線すぎる」鼻。自然な鼻には微妙なカーブがある。そこを無視して綺麗に作りすぎると、逆に不自然になる。
+あとは「直線すぎる」鼻。自然な鼻には、微妙なカーブがあります。そこを無視して綺麗に作りすぎると、逆に不自然になります。
 
-じゃあバレない鼻は何が違うか。<span class="pause">間</span>
+じゃあバレない鼻は、何が違うか。<span class="pause">間</span>
 
 存在感がない、ということです。<span class="pause">間</span>
 
 変な言い方かもしれないけど、美しい鼻は「鼻を主張していない」。
-顔全体の中に自然に溶け込んでいる。
+顔全体の中に、自然に溶け込んでいます。
 
-俺が鼻を作るとき、一番時間をかけるのはそこです。
+鼻を作るとき、一番時間をかけるのはそこです。
 
 術式じゃなくて、設計。
 
-あなたの顔に合った鼻を作る。それだけを考えています。</div></div>
+あなたの顔に合った鼻を作ります。それだけを考えています。</div></div>
       <div class="caption-area">
         <div class="cap-hd">キャプション</div>
         <div class="cap-bd">バレない鼻の共通点は「存在感がない」こと。
@@ -358,23 +358,23 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
       <div class="script-top"><div class="script-title-label">完全セリフ</div><div class="script-note"><span class="pause">間</span>＝1〜2秒空ける</div></div>
       <div class="script-box"><div class="script-text">同業者には怒られるかもしれないけど、本当のことを言います。
 
-鼻整形、安くできるクリニックが増えた。
+鼻整形、安くできるクリニックが増えています。
 
-技術が上がったから安くなったわけじゃない。<span class="pause">間</span>
+技術が上がったから安くなったわけじゃありません。<span class="pause">間</span>
 
-安さには理由がある。
+安さには、理由があります。
 
 コストを削っているか、経験の浅い医師がやっているか。どちらかです。
 
 もう一つ。「鼻整形、すぐ予約できます」というクリニック。
 
-カウンセリングに時間をかけていない証拠です。<span class="pause">間</span>
+カウンセリングに、時間をかけていない証拠です。<span class="pause">間</span>
 
-鼻の手術は一生ものです。顔の真ん中にある。
+鼻の手術は、一生ものです。顔の真ん中にあります。
 
-焦って決めた手術を、俺は何件も修正してきた。
+焦って決めた手術を、何件も修正してきました。
 
-安さと速さで選ぶな、とは言わない。
+安さと速さで選ぶな、とは言いません。
 
 ただ、その選択の意味を理解した上で決めてほしい。</div></div>
       <div class="caption-area">
@@ -401,9 +401,9 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
 <div class="vpage">
   <div class="v-top">
     <div class="v-meta"><div class="v-num">VIDEO 04</div><div class="v-dur">60秒</div><div class="v-dur">倫理観型</div></div>
-    <div class="v-title">俺が断った手術の話。</div>
+    <div class="v-title">断った手術の話。</div>
   </div>
-  <div class="v-hook-bar">「俺が断った手術の話をします。」</div>
+  <div class="v-hook-bar">「断った手術の話をします。」</div>
   <div class="v-body">
     <div class="v-sidebar">
       <div class="sbox">
@@ -428,25 +428,25 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
     </div>
     <div class="script-area">
       <div class="script-top"><div class="script-title-label">完全セリフ</div><div class="script-note"><span class="pause">間</span>＝1〜2秒空ける</div></div>
-      <div class="script-box"><div class="script-text">俺が断った手術の話をします。
+      <div class="script-box"><div class="script-text">断った手術の話をします。
 
-先日、こういう相談が来た。「鼻先をもっと細く、もっと高く」。
+先日、こういう相談が来ました。「鼻先をもっと細く、もっと高く」。
 
-術前・術後の写真を見せてもらった。
-すでに2回、他院で手術を受けていた。<span class="pause">間</span>
+術前・術後の写真を見せてもらいました。
+すでに2回、他院で手術を受けていました。<span class="pause">間</span>
 
-正直に言った。
+正直に言いました。
 
 「これ以上やると、あなたの鼻は壊れます」と。<span class="pause">間</span>
 
 軟骨が限界まで使われていた。
-これ以上削ったら、鼻先が落ちてくる。
+これ以上削ったら、鼻先が落ちてきます。
 
-「でもまだ気になるんです」と言われた。
+「でもまだ気になるんです」と言われました。
 
-わかる。<span class="pause">間</span>でも手術はしない。
+わかります。<span class="pause">間</span>でも手術はしません。
 
-俺の仕事は、患者さんが望むことを全部やることじゃない。
+仕事は、患者さんが望むことを全部やることじゃありません。
 
 その人にとって一番いい鼻を作ること。
 
@@ -494,7 +494,7 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
           <ul class="edit-steps">
             <li><div class="es-n">1</div>冒頭「0.1mm」を画面中央に極大テキストで表示（インパクト）</li>
             <li><div class="es-n">2</div>手術中の手元映像があれば後半に挿入</li>
-            <li><div class="es-n">3</div>「俺は仕上がりを選ぶ。」で静止画フリーズ→フェードアウト</li>
+            <li><div class="es-n">3</div>「仕上がりを選びます。」で静止画フリーズ→フェードアウト</li>
             <li><div class="es-n">4</div>BGM：ピアノ系・静か・シンプル</div></li>
           </ul>
         </div>
@@ -507,19 +507,19 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
 
 鼻先の位置を0.1mm変えると、顔の印象が変わります。
 
-大げさじゃなくて、本当に変わる。
+大げさじゃなくて、本当に変わります。
 
-だから俺は一本の手術に時間をかける。縫合だけで30分以上かけることもある。
+だから一本の手術に、時間をかけます。縫合だけで30分以上かけることもあります。
 
-「なんでそんなに時間をかけるんですか」とスタッフに聞かれた。<span class="pause">間</span>
+「なんでそんなに時間をかけるんですか」とスタッフに聞かれました。<span class="pause">間</span>
 
 答えは単純です。
 
-0.1mmを積み重ねた先に、理想の鼻がある。<span class="pause">間</span>
+0.1mmを積み重ねた先に、理想の鼻があります。<span class="pause">間</span>
 
-速さと仕上がりはトレードオフだと思っている。
+速さと仕上がりはトレードオフだと思っています。
 
-俺は仕上がりを選ぶ。<span class="pause">間</span>
+仕上がりを選びます。<span class="pause">間</span>
 
 それだけです。</div></div>
       <div class="caption-area">
@@ -527,7 +527,7 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
         <div class="cap-bd">0.1mmで顔の印象は変わる。
 
 速さと仕上がりはトレードオフ。
-俺は仕上がりを選ぶ。
+仕上がりを選びます。
 
 ━━━━━━━━━━━━
 🏥 Zetith Beauty Clinic 福岡院
@@ -544,23 +544,23 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
 <div class="vpage">
   <div class="v-top">
     <div class="v-meta"><div class="v-num">VIDEO 06</div><div class="v-dur">60秒</div><div class="v-dur">内側を見せる型</div></div>
-    <div class="v-title">カウンセリング中、俺が実は考えていること。</div>
+    <div class="v-title">カウンセリング中、実は何を考えているか。</div>
   </div>
-  <div class="v-hook-bar">「カウンセリング中に俺が実は何を考えているか、話します。」</div>
+  <div class="v-hook-bar">「カウンセリング中に、実は何を考えているか。話します。」</div>
   <div class="v-body">
     <div class="v-sidebar">
       <div class="sbox">
         <div class="sbox-hd">撮影指示</div>
         <div class="sbox-bd">
           <div class="sbox-row"><span class="sbox-lbl">出演</span>羽根先生（白衣）</div>
-          <div class="sbox-row"><span class="sbox-lbl">ポイント</span>「鼻先を高くしたい、と言う。俺が見ているのは鼻先じゃない。」の対比をはっきり出す。間を使う</div>
+          <div class="sbox-row"><span class="sbox-lbl">ポイント</span>「鼻先を高くしたい、と言う。見ているのは鼻先じゃない。」の対比をはっきり出す。間を使う</div>
         </div>
       </div>
       <div class="sbox">
         <div class="sbox-hd">編集指示</div>
         <div class="sbox-bd">
           <ul class="edit-steps">
-            <li><div class="es-n">1</div>「俺が見ているのは鼻先じゃない。」を大テキストで強調</li>
+            <li><div class="es-n">1</div>「見ているのは鼻先じゃない。」を大テキストで強調</li>
             <li><div class="es-n">2</div>「顔全体のバランス」の説明時に顔の図解（輪郭・目・鼻・口の関係）をオーバーレイ</li>
             <li><div class="es-n">3</div>「カウンセリングの1時間が全てを決める」で締め</li>
             <li><div class="es-n">4</div>AI字幕＋BGM（静か・シネマティック）</li>
@@ -571,30 +571,30 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
     </div>
     <div class="script-area">
       <div class="script-top"><div class="script-title-label">完全セリフ</div><div class="script-note"><span class="pause">間</span>＝1〜2秒空ける</div></div>
-      <div class="script-box"><div class="script-text">カウンセリング中に俺が実は何を考えているか、話します。
+      <div class="script-box"><div class="script-text">カウンセリング中に、実は何を考えているか。話します。
 
 患者さんが「鼻先を高くしたい」と言う。<span class="pause">間</span>
 
-俺が見ているのは鼻先じゃない。
+見ているのは鼻先じゃありません。
 
-顔全体のバランスです。目の幅、頬骨の位置、あごの形。鼻はその中の一つのパーツに過ぎない。
+顔全体のバランスです。目の幅、頬骨の位置、あごの形。鼻はその中の一つのパーツに過ぎません。
 
-「高くしたい」という言葉の裏に、本当は何があるか。それを探している。
+「高くしたい」という言葉の裏に、本当は何があるか。それを探しています。
 
 「顔全体をもっと立体的にしたいのか」
 「鼻先のもたつきをなくしたいのか」
 「横顔を変えたいのか」
 
-同じ「高くしたい」でも、答えは全部違う。<span class="pause">間</span>
+同じ「高くしたい」でも、答えは全部違います。<span class="pause">間</span>
 
-だからカウンセリングに時間をかける。
+だからカウンセリングに時間をかけます。
 
 手術の30分より、カウンセリングの1時間が全てを決める。
 
 そう思っています。</div></div>
       <div class="caption-area">
         <div class="cap-hd">キャプション</div>
-        <div class="cap-bd">「鼻先を高くしたい」という言葉を聞いた時、俺が見ているのは鼻先じゃない。
+        <div class="cap-bd">「鼻先を高くしたい」という言葉を聞いた時、見ているのは鼻先じゃない。
 
 顔全体のバランス。
 その人が本当に変えたいもの。
@@ -616,9 +616,9 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
 <div class="vpage">
   <div class="v-top">
     <div class="v-meta"><div class="v-num">VIDEO 07</div><div class="v-dur">50秒</div><div class="v-dur">審美哲学型</div></div>
-    <div class="v-title">俺が嫌いな鼻の話。</div>
+    <div class="v-title">嫌いな鼻の話。</div>
   </div>
-  <div class="v-hook-bar">「俺が嫌いな鼻の話をします。」</div>
+  <div class="v-hook-bar">「嫌いな鼻の話をします。」</div>
   <div class="v-body">
     <div class="v-sidebar">
       <div class="sbox">
@@ -635,7 +635,7 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
           <ul class="edit-steps">
             <li><div class="es-n">1</div>「やりすぎた鼻」の一言を大テキストで</li>
             <li><div class="es-n">2</div>「技術を見せるための鼻じゃなくて」の後に一瞬ポーズを入れる</li>
-            <li><div class="es-n">3</div>最後の一文「それが俺の作りたい鼻です。」で静止→フェードアウト</li>
+            <li><div class="es-n">3</div>最後の一文「それが作りたい鼻です。」で静止→フェードアウト</li>
             <li><div class="es-n">4</div>BGM：ピアノ・静か・余韻を残す終わり方</li>
           </ul>
         </div>
@@ -644,26 +644,26 @@ body { font-family:'Hiragino Sans','Yu Gothic',sans-serif; font-size:11px; color
     </div>
     <div class="script-area">
       <div class="script-top"><div class="script-title-label">完全セリフ</div><div class="script-note"><span class="pause">間</span>＝1〜2秒空ける</div></div>
-      <div class="script-box"><div class="script-text">俺が嫌いな鼻の話をします。<span class="pause">間</span>
+      <div class="script-box"><div class="script-text">嫌いな鼻の話をします。<span class="pause">間</span>
 
 やりすぎた鼻、です。
 
 高すぎる。細すぎる。整いすぎている。
 
-見た瞬間に「手術した鼻だ」とわかる。
+見た瞬間に「手術した鼻だ」とわかります。
 
-技術があることはわかる。でも俺には美しく見えない。<span class="pause">間</span>
+技術があることはわかります。でも美しく見えません。<span class="pause">間</span>
 
 美しい鼻は、その人の顔に「もともとあったかのように」存在している。
 
-主張しすぎず。でも確かにそこにある。<span class="pause">間</span>
+主張しすぎず。でも確かにそこにあります。<span class="pause">間</span>
 
 技術を見せるための鼻じゃなくて、その人を美しく見せるための鼻。
 
-それが俺の作りたい鼻です。</div></div>
+それが作りたい鼻です。</div></div>
       <div class="caption-area">
         <div class="cap-hd">キャプション</div>
-        <div class="cap-bd">俺が嫌いな鼻は「やりすぎた鼻」。
+        <div class="cap-bd">嫌いな鼻は「やりすぎた鼻」。
 
 美しい鼻は主張しない。
 その人の顔に、もともとあったかのように存在している。
