@@ -728,7 +728,106 @@ p  { font-size: 9.5px; color: #444; line-height: 2; }
 </div></div>
 
 <!-- ============================================================ -->
-<!-- PAGE 11: CLOSING -->
+<!-- PAGE 11: 横顔の美しさ / おでこ・あご -->
+<!-- ============================================================ -->
+<div class="page"><div class="cp">
+  <div class="ph"><span class="ph-label">SIDE PROFILE BEAUTY</span><span class="ph-num">10</span></div>
+  <h1>理想の横顔 — おでこ・鼻・あごの3点</h1>
+  <div style="font-size:8px;letter-spacing:2px;color:#bbb;margin-bottom:12px;">FOREHEAD · NOSE · CHIN HARMONY</div>
+
+  <div class="svgwrap" style="margin-bottom:12px;">
+    <div class="sv-title">横顔バランス比較（Eライン = 鼻先〜あご先の基準線）</div>
+    <svg viewBox="0 0 460 168" xmlns="http://www.w3.org/2000/svg" width="100%">
+      <rect width="460" height="168" fill="#fff"/>
+      <!-- Labels -->
+      <text x="100" y="13" font-size="9" fill="#888" text-anchor="middle" font-family="serif">鼻だけ整形した場合</text>
+      <text x="354" y="13" font-size="9" fill="#c4a06a" text-anchor="middle" font-family="serif">3点が整った横顔（理想）</text>
+      <line x1="228" y1="4" x2="228" y2="165" stroke="#e8dece" stroke-width="1" stroke-dasharray="4,3"/>
+
+      <!-- ===== LEFT PANEL: 鼻だけ ===== -->
+      <!-- Profile: flat forehead, good nose, recessed chin -->
+      <path d="M 84,20 C 91,24 93,38 92,50 C 91,60 86,67 82,73 C 78,79 77,89 81,96 C 85,103 100,108 106,112 C 99,120 91,125 92,132 C 92,138 91,145 88,151 C 86,156 83,161 77,165"
+        fill="none" stroke="#bbb" stroke-width="2.2" stroke-linecap="round"/>
+      <!-- Forehead dot: flat (hollow) -->
+      <circle cx="93" cy="35" r="5" fill="#ede0cc" stroke="#ccc" stroke-width="1.5"/>
+      <text x="22" y="31" font-size="7" fill="#999" font-family="serif">おでこ</text>
+      <text x="22" y="40" font-size="7" fill="#999" font-family="serif">（平ら）</text>
+      <line x1="46" y1="35" x2="88" y2="35" stroke="#ddd" stroke-width="0.8"/>
+      <!-- Nose dot: gold (done) -->
+      <circle cx="106" cy="112" r="5" fill="#c4a06a" opacity="0.8"/>
+      <text x="115" y="110" font-size="7" fill="#c4a06a">鼻（完了）</text>
+      <!-- Chin dot: hollow (recessed) -->
+      <circle cx="88" cy="151" r="5" fill="#ede0cc" stroke="#ccc" stroke-width="1.5"/>
+      <text x="22" y="147" font-size="7" fill="#999" font-family="serif">あご</text>
+      <text x="22" y="156" font-size="7" fill="#999" font-family="serif">（後退）</text>
+      <line x1="44" y1="151" x2="83" y2="151" stroke="#ddd" stroke-width="0.8"/>
+      <!-- E-line left (misaligned) -->
+      <line x1="106" y1="112" x2="88" y2="151" stroke="#ddd" stroke-width="1.5" stroke-dasharray="5,3"/>
+      <text x="150" y="132" font-size="6.5" fill="#ccc" text-anchor="middle">E-line</text>
+      <text x="150" y="140" font-size="6.5" fill="#ccc" text-anchor="middle">（ずれている）</text>
+
+      <!-- ===== RIGHT PANEL: 3点バランス ===== -->
+      <!-- Profile: projected forehead, good nose, projected chin -->
+      <path d="M 292,20 C 304,22 320,33 323,47 C 325,59 320,67 314,73 C 309,79 308,89 312,96 C 316,103 332,108 338,112 C 331,120 323,125 323,132 C 323,138 324,145 324,151 C 324,158 320,163 313,165"
+        fill="none" stroke="#c4a06a" stroke-width="2.2" stroke-linecap="round"/>
+      <!-- Forehead dot: projected gold -->
+      <circle cx="323" cy="40" r="5" fill="#c4a06a" opacity="0.8"/>
+      <text x="238" y="36" font-size="7" fill="#c4a06a">おでこ</text>
+      <text x="238" y="45" font-size="7" fill="#c4a06a">脂肪注入</text>
+      <line x1="268" y1="40" x2="318" y2="40" stroke="#c4a06a" stroke-width="0.8" opacity="0.5"/>
+      <!-- Nose dot: gold (same) -->
+      <circle cx="338" cy="112" r="5" fill="#c4a06a" opacity="0.8"/>
+      <text x="348" y="110" font-size="7" fill="#c4a06a">鼻整形</text>
+      <!-- Chin dot: projected gold -->
+      <circle cx="324" cy="151" r="5" fill="#c4a06a" opacity="0.8"/>
+      <text x="238" y="147" font-size="7" fill="#c4a06a">あご</text>
+      <text x="238" y="156" font-size="7" fill="#c4a06a">ヒアルロン酸</text>
+      <line x1="266" y1="151" x2="319" y2="151" stroke="#c4a06a" stroke-width="0.8" opacity="0.5"/>
+      <!-- E-line right (clean) -->
+      <line x1="338" y1="112" x2="324" y2="151" stroke="#c4a06a" stroke-width="1.8" stroke-dasharray="5,3"/>
+      <text x="388" y="132" font-size="6.5" fill="#c4a06a" text-anchor="middle">E-line</text>
+      <text x="388" y="140" font-size="6.5" fill="#c4a06a" text-anchor="middle">（整った）</text>
+      <!-- 3-point beauty triangle -->
+      <path d="M 323,40 L 338,112 L 324,151" stroke="#c4a06a" stroke-width="0.8" fill="none" stroke-dasharray="4,4" opacity="0.4"/>
+    </svg>
+  </div>
+
+  <div class="two-col" style="margin-bottom:10px;">
+    <div class="col-l">
+      <div class="info-block" style="border-left:3px solid #c4a06a;">
+        <h3>おでこの脂肪注入</h3>
+        <p style="margin-bottom:8px;">自分の脂肪（お腹・太ももなど）を採取・精製してデザイン注入。シリコンを使わないため異物感がなく、自然な丸みを作れます。</p>
+        <div style="font-size:8px;color:#c4a06a;margin-bottom:4px;">横顔への効果</div>
+        <p style="margin-bottom:7px;">おでこに丸みが出ると横顔の「奥行き」が生まれ、鼻との連動で全体の立体感が増します。のっぺりした顔が一気に「彫りの深い印象」に変わります。</p>
+        <div class="merit-row"><div class="merit-label">◎</div><div class="merit-text">自分の組織なので自然な仕上がり</div></div>
+        <div class="merit-row"><div class="merit-label">◎</div><div class="merit-text">定着した脂肪は長期間維持される</div></div>
+        <div class="merit-row"><div class="merit-label">◎</div><div class="merit-text">鼻整形と同日施術が可能</div></div>
+        <div class="merit-row"><div class="demerit-label">△</div><div class="merit-text">10〜30%程度の吸収が起きることがある</div></div>
+        <div class="merit-row"><div class="demerit-label">△</div><div class="merit-text">採取部位にも小さな傷が残る</div></div>
+      </div>
+    </div>
+    <div class="col-r">
+      <div class="info-block">
+        <h3>あごのヒアルロン酸</h3>
+        <p style="margin-bottom:8px;">注射であごにヒアルロン酸を注入し、あご先を前・下方向に出す方法。手術不要、施術10〜20分、即日帰宅できます。</p>
+        <div style="font-size:8px;color:#c4a06a;margin-bottom:4px;">横顔への効果</div>
+        <p style="margin-bottom:7px;">鼻先とあご先を結ぶEラインが整い、横顔がシャープに。顔が縦に伸びて見え、スタイルアップ効果も。鼻整形との相乗効果が非常に高い施術です。</p>
+        <div class="merit-row"><div class="merit-label">◎</div><div class="merit-text">手術なし、注射のみで即効性</div></div>
+        <div class="merit-row"><div class="merit-label">◎</div><div class="merit-text">鼻整形との組み合わせで横顔が劇的に変わる</div></div>
+        <div class="merit-row"><div class="merit-label">◎</div><div class="merit-text">Eライン・小顔・Vライン効果</div></div>
+        <div class="merit-row"><div class="demerit-label">△</div><div class="merit-text">効果は12〜18ヶ月程度、定期メンテナンスが必要</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="note-box">
+    <div class="note-head">先生のひとこと — 横顔について</div>
+    <p>「鼻を整えたのに、なんか物足りない」という声をよく聞きます。原因はたいていおでこかあごです。鼻だけが突き出た横顔は、実はバランスが悪い。おでこの丸みとあごの出方がセットで整うと、横顔の完成度が全然ちがいます。とくにあごのヒアルロン酸は手術なしで即効性があるので、鼻整形と合わせてやる方が非常に多いです。「鼻と一緒にやりたい」という方はカウンセリングで気軽に相談してください。</p>
+  </div>
+</div></div>
+
+<!-- ============================================================ -->
+<!-- PAGE 12: CLOSING -->
 <!-- ============================================================ -->
 <div class="page">
 <div class="closing-page"><div class="closing-inner">
